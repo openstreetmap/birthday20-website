@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:9000/wp-sitemap-index.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="/wp-sitemap-index.xsl" ?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>http://localhost:9000/wp-sitemap-posts-page-1.xml</loc>
+    <loc>/wp-sitemap-posts-page-1.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>http://localhost:9000/wp-sitemap-posts-wp-timeline-1.xml</loc>
+    <loc>/wp-sitemap-posts-wp-timeline-1.xml</loc>
   </sitemap>
 </sitemapindex>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:9000/wp-sitemap.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="/wp-sitemap.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:9000/</loc>
+    <loc>/</loc>
     <lastmod>2024-09-14T00:39:52+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/the-openstreetmap-birthday-card/</loc>
+    <loc>/the-openstreetmap-birthday-card/</loc>
     <lastmod>2024-09-14T00:41:22+00:00</lastmod>
   </url>
 </urlset>

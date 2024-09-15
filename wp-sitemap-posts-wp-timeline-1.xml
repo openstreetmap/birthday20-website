@@ -1,116 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:9000/wp-sitemap.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="/wp-sitemap.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:9000/timeline/openstreetmap-is-born/</loc>
+    <loc>/timeline/openstreetmap-is-born/</loc>
     <lastmod>2024-07-17T19:58:49+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/establishment-of-the-openstreetmap-foundation/</loc>
+    <loc>/timeline/establishment-of-the-openstreetmap-foundation/</loc>
     <lastmod>2024-07-22T13:47:59+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/first-street-entered-into-openstreetmap/</loc>
+    <loc>/timeline/first-street-entered-into-openstreetmap/</loc>
     <lastmod>2024-08-09T03:23:57+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/openstreetmap-celebrates-its-20th-birthday/</loc>
+    <loc>/timeline/openstreetmap-celebrates-its-20th-birthday/</loc>
     <lastmod>2024-07-17T20:04:55+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2005-the-first-mapping-party-map-limehouse/</loc>
+    <loc>/timeline/2005-the-first-mapping-party-map-limehouse/</loc>
     <lastmod>2024-08-09T03:28:31+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2006-map-features-tag-documentation-added/</loc>
+    <loc>/timeline/2006-map-features-tag-documentation-added/</loc>
     <lastmod>2024-08-09T03:29:27+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2005-the-isle-of-wight-weekend-mapping-party/</loc>
+    <loc>/timeline/2005-the-isle-of-wight-weekend-mapping-party/</loc>
     <lastmod>2024-08-09T03:25:33+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2007-yahoo-aerial-imagery-allowed-for-editing/</loc>
+    <loc>/timeline/2007-yahoo-aerial-imagery-allowed-for-editing/</loc>
     <lastmod>2024-07-17T20:03:39+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2007-first-state-of-the-map-in-manchester-uk/</loc>
+    <loc>/timeline/2007-first-state-of-the-map-in-manchester-uk/</loc>
     <lastmod>2024-08-09T03:33:04+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2009-map-kibera-and-openstreetmap/</loc>
+    <loc>/timeline/2009-map-kibera-and-openstreetmap/</loc>
     <lastmod>2024-08-09T03:33:43+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2010-haiti-earthquake-humanitarian-mapping/</loc>
+    <loc>/timeline/2010-haiti-earthquake-humanitarian-mapping/</loc>
     <lastmod>2024-08-09T03:36:10+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2012-the-open-database-license-odbl/</loc>
+    <loc>/timeline/2012-the-open-database-license-odbl/</loc>
     <lastmod>2024-07-17T20:00:45+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2014-tenth-anniversary-of-openstreetmap/</loc>
+    <loc>/timeline/2014-tenth-anniversary-of-openstreetmap/</loc>
     <lastmod>2024-07-17T20:02:32+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2015-the-growth-of-osm-science/</loc>
+    <loc>/timeline/2015-the-growth-of-osm-science/</loc>
     <lastmod>2024-08-09T03:35:55+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2018-user-moderation-in-osm/</loc>
+    <loc>/timeline/2018-user-moderation-in-osm/</loc>
     <lastmod>2024-07-17T20:00:23+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2022/</loc>
+    <loc>/timeline/2022/</loc>
     <lastmod>2024-08-09T03:44:28+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2023-ten-million-registered-users/</loc>
+    <loc>/timeline/2023-ten-million-registered-users/</loc>
     <lastmod>2024-07-17T20:00:09+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2021-streetcomplete-becomes-the-2nd-most-popular-editor/</loc>
+    <loc>/timeline/2021-streetcomplete-becomes-the-2nd-most-popular-editor/</loc>
     <lastmod>2024-08-09T03:43:44+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2017-niantic-switches-to-openstreetmap-as-the-base-map-for-pokemon-go/</loc>
+    <loc>/timeline/2017-niantic-switches-to-openstreetmap-as-the-base-map-for-pokemon-go/</loc>
     <lastmod>2024-08-09T03:41:14+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2015-steve-coast-publishes-the-book-of-osm/</loc>
+    <loc>/timeline/2015-steve-coast-publishes-the-book-of-osm/</loc>
     <lastmod>2024-08-09T03:39:48+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2015-iceland-becomes-the-first-recognized-local-chapter-of-osm/</loc>
+    <loc>/timeline/2015-iceland-becomes-the-first-recognized-local-chapter-of-osm/</loc>
     <lastmod>2024-08-09T03:39:04+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2012-state-of-the-map-japan/</loc>
+    <loc>/timeline/2012-state-of-the-map-japan/</loc>
     <lastmod>2024-07-17T19:57:30+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/your-turn/</loc>
+    <loc>/timeline/your-turn/</loc>
     <lastmod>2024-07-15T16:21:27+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2006-potlach-osms-first-default-editor/</loc>
+    <loc>/timeline/2006-potlach-osms-first-default-editor/</loc>
     <lastmod>2024-08-09T03:31:43+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/2006-12-vintage-osm-hardware/</loc>
+    <loc>/timeline/2006-12-vintage-osm-hardware/</loc>
     <lastmod>2024-08-09T03:32:21+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/a-slippy-map-for-osm-org/</loc>
+    <loc>/timeline/a-slippy-map-for-osm-org/</loc>
     <lastmod>2024-07-22T13:52:47+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/ten-years-of-participation-in-the-google-summer-of-code/</loc>
+    <loc>/timeline/ten-years-of-participation-in-the-google-summer-of-code/</loc>
     <lastmod>2024-07-22T15:43:12+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:9000/timeline/one-million-notes-added-to-osm-since-2013/</loc>
+    <loc>/timeline/one-million-notes-added-to-osm-since-2013/</loc>
     <lastmod>2024-08-09T03:42:18+00:00</lastmod>
   </url>
 </urlset>
