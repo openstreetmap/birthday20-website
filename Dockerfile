@@ -2,7 +2,7 @@ FROM docker.io/debian:12 AS build
 
 COPY . /app/_site
 
-RUN find /app/_site/ -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -print0 | xargs -0 -P4 gzip -9k
+RUN find /app/_site/ -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" -o -name "*.ttf" -o -name "*.woff2" -o -name "*.woff" -o -name "*.eot" -o -name "*.otf" \) -print0 | xargs -0 -P4 --no-run-if-empty gzip -9k
 
 # https://github.com/nginxinc/docker-nginx-unprivileged
 FROM ghcr.io/nginxinc/nginx-unprivileged:stable-alpine AS webserver
