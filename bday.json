@@ -1,0 +1,422 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.instagram.com/p/C-XZoRCPlLx/'>OSM Day Celebration and Open Tech Meetup</a><br/>August 9.  organized by Kathmandu University Open Source Community at Kathmandu University in Nepal"},
+      "geometry": {
+        "coordinates": [
+          85.53735,
+          27.61870
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3058/'>20 years with OSM</a><br/>August 10. Ardagani Restaurant on Pirosmani at 18 local time"},
+      "geometry": {
+        "coordinates": [
+          41.61901,
+          41.64161
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://wikimania.wikimedia.org/wiki/2024:Meetups/Wikimaps_User_Group_meetup_and_OpenStreetMap_birthday_party'>OpenStreetMap Training organised by Kathmandu Living Labs</a><br/>August 9 at Nepal Banepa Polytechnic Institute in Nepal"},
+      "geometry": {
+        "coordinates": [
+          85.52310,
+          27.63524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.swechaap.org/events/osm20/'>OpenStreetMap 20th Anniversary and Mapping party</a><br/>August 9/10/11 at KL University Vijayawada, Andhra Pradesh, India"},
+      "geometry": {
+        "coordinates": [
+          80.62397,
+          6.44240
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3047/'>OpenStreetMap Turkiye Monthly Mapathon</a><br/>August 9 Online, starting at 8PM (UTC+3)"},
+      "geometry": {
+        "coordinates": [
+          35.192,
+          39.126
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3048/'>OpenStreetMap 20th Anniversary Celebration</a><br/>August 9 at OpenMap Development Tanzania (OMDTZ) office and online"},
+      "geometry": {
+        "coordinates": [
+          39.17863,
+          -6.74180
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.meetup.com/openstreetmap-seattle/events/302087988/'>OSM Seattle 20th Anniversary Picnic</a><br/>August 10 at Green Lake Park, Seattle"},
+      "geometry": {
+        "coordinates": [
+          -122.3364,
+          47.6777
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3049/'>20th Anniversary Meetup</a><br/>August 10 at the NextGIS office at 16:00."},
+      "geometry": {
+        "coordinates": [ 
+          37.66199,
+          55.77107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.facebook.com/events/1700134707420004/'>OpenStreetMap 20歳のお祝いでOSMケーキ作ります！</a><br/>August 5 at Furuhashi Lab. ANNEX, Yokoze Town, organized by MAPconcierge YouthMappers AGU"},
+      "geometry": {
+        "coordinates": [
+          139.1069,
+          35.98180
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.tickettailor.com/events/missingmapslondon/1040085'>Missing Maps London mapathon</a><br/>August 6 organized by Missing Maps London - Online event"},
+      "geometry": {
+        "coordinates": [
+          -0.0882,
+          51.4898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3033/'>GeoBeer at BeeЯ on Centro Comercial Gran Estación en Bogotá</a><br/>August 9"},
+      "geometry": {
+        "coordinates": [
+          -74.10197,
+          4.64782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3034/'>OpenStreetMap 20th Anniversary Celebration</a><br/>August 9 At OpenStreetMap Uganda offices, Plot 351, Kyadondo, Mengo, Kiwatule starting at 8AM EAT"},
+      "geometry": {
+        "coordinates": [
+          32.62377,
+          0.35803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3038/'>Virtual beer for the 20 years at OSMvideo in LatAm group.</a><br/>August 10"},
+      "geometry": {
+        "coordinates": [
+          -58.36,
+          -21.21
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3041/'>Albania OpenStreetMap Online Mapping Party</a><br/>August 10"},
+      "geometry": {
+        "coordinates": [
+          20.462,
+          41.096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href=''>srilanka OpenStreetMap 20th Anniversary Party - Eastern University</a><br/>August 11"},
+      "geometry": {
+        "coordinates": [
+          81.21269,
+          8.65462
+        ],
+        "type": "Point"
+      }
+    }, 
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href=''>Indonesia Welcoming party and celebrate OSM 20th Anniversary</a><br/>August 11, powered by UPI YouthMappers - at Universitas Pendidikan Indonesia, Bandung"},
+      "geometry": {
+        "coordinates": [
+          107.59180,
+          -6.86114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",  
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Groupe_local_Rouen#Ao%C3%BBt_2024,_Ap%C3%A9r%E2%80%99O%E2%80%99SM_(ap%C3%A9ro_OSM)_pour_f%C3%AAter_les_20_ans_d'OpenStreetMap.'>apéro pour fêter l'anniversaire d'OpenStreetMap at Rouen</a><br/>August 9"},
+      "geometry": {
+        "coordinates": [
+          1.10111,
+          49.44269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3031/'>Tanzania OpenStreetMap 20th Anniversary Birthday Mapping Party </a><br/>August 9, organized by GeoTE-Tanzania in Collaboration with YouthMappers chapter in Tanzania"},
+      "geometry": {
+        "coordinates": [
+          37.62885,
+          -6.79587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3025/'>Nigeria OpenStreetMap Birthday Pub</a><br/>August 10, At the Unique Mappers Network Nigeria National Office and Virtually 7PM WAT"},
+      "geometry": {
+        "coordinates": [
+          6.92194,
+          4.90373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://www.facebook.com/events/1186593855991914'>Kosovo OpenStreetMap 20th Anniversary Party</a><br/>August 9, Prishtina Hackerspace"},
+      "geometry": {
+        "coordinates": [
+          21.16962,
+          42.65612
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://geogeeks.org/2024/0809_osm-birthday.html'>Australia Geogeeks celebrate 20 years of OpenStreetMap</a><br/>09 August 2024 at 5:30PM at The Globe, Perth, Western Australia"},
+      "geometry": {
+        "coordinates": [
+          115.85855,
+          -31.95162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://countries-romantic.connpass.com/event/326605/'>OpenStreetMap 20歳の誕生日会！</a><br/>Friday, August 9, 2024, 18:30-22:30"},
+      "geometry": {
+        "coordinates": [
+          135.61526,
+          34.85277
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Mapping_Competition_POI'>OpenStreetMap 20th Mapping Competition POI</a><br/>Online competition period: 2 - 22 August 2024"},
+      "geometry": {
+        "coordinates": [
+          117.896,
+          -2.496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://do-na.ir/events/9/'>Iran Dona Celeberating OSM20th - Online event</a><br/>Friday, August 19"},
+      "geometry": {
+        "coordinates": [
+          53.683,
+          32.620
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href=''> Germany 20th Anniversary Mapping Party des Code for Niederrhein, Moers</a><br/>im Hackerspace des Jugendzentrums Nord in Moers Reepelen. Samstag, 10. August"},
+      "geometry": {
+        "coordinates": [
+          6.60695,
+          51.48944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href=''>Bangladesh OpenStreetMap Turning Twenty Open Comunity Party in Dhaka City</a><br>Powered by YouthMappers Bangladesh Supported by Bangladesh Open Innovation Lab (BOIL). August 10."},
+      "geometry": {
+        "coordinates": [
+          90.3890,
+          23.7645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Anniversary_Birthday_party/Karlsruhe'>OpenStreetMap 20th Anniversary Birthday party/Karlsruhe</a><br/>Samstag, 10. August 2024 10:00 bis 18:00 Uhr. Geofabrik, Amalienstraße 44, 76133 Karlsruhe"},
+      "geometry": {
+        "coordinates": [
+          8.39021,
+          49.00961
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Stuttgart/Stammtisch/Mapping_Events#20_Jahre_OSM_%E2%80%93_St%C3%A4ffele-Mapping_in_Stuttgart'>Stäffele-Mapping in Stuttgart</a><br/>Aus diesem Anlass widmen wir uns der Erfassung der Stuttgarter Stäffele. Sonntag, 11. August 2024, ab 10:00. Stadtmessungsamt Stuttgart, Kronenstraße 20, 70161 Stuttgart"},
+      "geometry": {
+        "coordinates": [
+          9.17888,
+          48.78265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Grenoble_groupe_local/Agenda#Vendredi_9_ao%C3%BBt_%3A_ap%C3%A9ro_pour_f%C3%AAter_l%27anniversaire_d%27OpenStreetMap'>Vendredi 9 août : apéro pour fêter l'anniversaire d'OpenStreetMap</a><br/>rendez-vous à partir 18h au Gaspard, 2 rue de Lionne à Grenoble"},
+      "geometry": {
+        "coordinates": [
+          5.72968,
+          45.19376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wikimania.wikimedia.org/wiki/2024:Meetups/Wikimaps_User_Group_meetup_and_OpenStreetMap_birthday_party'>Poland Wikimaps User Group meetup and OpenStreetMap birthday party at Wikimania in Katowice</a><br/>Friday, 9 August 12:15 – 13:15 local time or 10:15 - 11:15 UTC, 60 minutes, room 10 (M)"},
+      "geometry": {
+        "coordinates": [
+          19.0271,
+          50.2657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://osmutah.org/2024/07/openstreetmap-turns-20-come-celebrate-with-us/'>OSM Utah 20th Birthday Happy Hour</a><br/>August 9. The Local, Salt Lake City"},
+      "geometry": {
+        "coordinates": [
+          -111.88206,
+          40.76038
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Democratic_Republic_of_the_Congo/The_DRC_OSM_Mapping#OpenStreetMap_20th_Anniversary_Party'>Democratic Republic of the Congo OpenStreetMap 20th Anniversary Party</a><br/>August 9. Location : Orange Digital Center"},
+      "geometry": {
+        "coordinates": [
+          15.30698,
+          -4.33104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Bengaluru'>India OpenStreetMap Bengaluru Mapping Party</a><br/>August 10. Location tbd"},
+      "geometry": {
+        "coordinates": [
+          77.5900820,
+          12.9767936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3043/'>India OpenStreetMap 20th Anniversary Birthday party</a>August 10. Location Public Library, Puzhakkal, Thrissur District</a><br/>Location tbd"},
+      "geometry": {
+        "coordinates": [
+          76.17539,
+          10.55200
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://peatix.com/event/4054641/view'>祝！OpenStreetMap誕生20周年 夏の会津マッパ＆お祝いパーティー！</a><br/>Sat, 1:00 PM | 福島県会津若松市追手町１−１"},
+      "geometry": {
+        "coordinates": [
+          139.93124,
+          37.48799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://thegeomob.com/post/sept-18th-2024-geomoblon-details'>OpenStreetMap Birthday Geomob</a><br/>On the evening of Wednesday 18th September we'll have very special #geomob event with all OpenStreetMap topics! Tocation tbd"},
+      "geometry": {
+        "coordinates": [
+          -0.07626,51.50825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/London/2024_events#Upcoming_Events'>OpenStreetMap Birthday Pub</a><br/>Saturday 10th August from midday onwards, we'll be celebrating the OpenStreetMap 20th Anniversary Birthday party at the Doggetts Coat & Badge pub on the South bank"},
+      "geometry": {
+        "coordinates": [
+          -0.1048,
+          51.5085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Switzerland/The_Swiss_OSM_Jubilee_Tour#OpenStreetMap_20th_Anniversary_Party'>OSM-Stammtisch mit Grillevent zum Abschluss der Swiss OSM Jubilee Tour!</a><br/>So. 11. August 2024, (Time tbd.), Location tbd"},
+      "geometry": {
+        "coordinates": [
+          8.2241,
+          46.8224
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
